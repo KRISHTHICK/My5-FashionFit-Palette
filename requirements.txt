@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+matplotlib
+scikit-learn
+numpy
+Pillow
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
